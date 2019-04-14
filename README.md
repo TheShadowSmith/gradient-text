@@ -1,10 +1,10 @@
 # Gradient-Text Utility
 A little CSS utility I created based on a text color effect I found while surfing the [Stadia Developer Website](https://stadia.dev).
 
-# Gradient-Text Example
-![Gradient Text Example](https://raw.githubusercontent.com/TheShadowSmith/gradient-text/master/gradient-text-example.png "Gradient Text Example")[]()
+## Gradient-Text Example
+![Gradient Text Example](https://raw.githubusercontent.com/TheShadowSmith/gradient-text/master/gradient-text-example.png "Gradient Text Example")
 
-# How to use it
+## How to use it
 1. Swipe the `gradient-text` CSS class from the [gradient-text.css](https://github.com/TheShadowSmith/gradient-text/blob/master/gradient-text.css) file.
 ```CSS
 .gradient-text {
