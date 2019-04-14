@@ -2,7 +2,7 @@
 A little CSS utility I created based on a text color effect I found while surfing the [Stadia Developer Website](https://stadia.dev).
 
 # Gradient-Text Example
-Add example here.
+![Gradient Text Example](https://raw.githubusercontent.com/TheShadowSmith/gradient-text/master/gradient-text-example.png "Gradient Text Example")
 
 # How to use it
 1. Swipe the `gradient-text` CSS class from the [gradient-text.css](https://github.com/TheShadowSmith/gradient-text/blob/master/gradient-text.css) file.
@@ -23,7 +23,7 @@ Add example here.
     -webkit-text-fill-color: transparent;
 }
 ```
-3. Add the "gradient-text" CSS class to `<div>` elements.
+3. Add the 'gradient-text' CSS class to `<div>` elements.
 ```sh
 <div class="gradient-text">
         Gradient Text Demo
