@@ -2,11 +2,11 @@
 A little CSS utility I created based on a text color effect I found while surfing the [Stadia Developer Website](https://stadia.dev).
 
 # Gradient-Text Example
-![Gradient Text Example](https://raw.githubusercontent.com/TheShadowSmith/gradient-text/master/gradient-text-example.png "Gradient Text Example")
+![Gradient Text Example](https://raw.githubusercontent.com/TheShadowSmith/gradient-text/master/gradient-text-example.png "Gradient Text Example")[]()
 
 # How to use it
 1. Swipe the `gradient-text` CSS class from the [gradient-text.css](https://github.com/TheShadowSmith/gradient-text/blob/master/gradient-text.css) file.
-```sh
+```CSS
 .gradient-text {
     -webkit-background-clip: text;
     background-image: -webkit-linear-gradient(107deg, #9b0063, #ff4c1d);
@@ -15,7 +15,7 @@ A little CSS utility I created based on a text color effect I found while surfin
 }
 ```
 2. Modify the CSS gradient HEX values with whatever colors you wish to be in your gradient and change the angle of the gradient to whatever you prefer.
-```sh
+```CSS
 .gradient-text {
     -webkit-background-clip: text;
     background-image: -webkit-linear-gradient(ANGLE, HEX CODE 1, HEX CODE 2);
@@ -23,8 +23,8 @@ A little CSS utility I created based on a text color effect I found while surfin
     -webkit-text-fill-color: transparent;
 }
 ```
-3. Add the 'gradient-text' CSS class to `<div>` elements.
-```sh
+3. Add the `gradient-text` CSS class to `<div>` elements.
+```HTML
 <div class="gradient-text">
         Gradient Text Demo
 </div>
